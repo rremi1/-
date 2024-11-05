@@ -1,5 +1,5 @@
 body {
-    color: rgb(138, 65, 106);
+    color: rgb(136, 58, 102);
     background: rgb(194, 116, 151);
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
@@ -7,7 +7,7 @@ body {
 }
 
 header {
-    border-bottom: solid 2px rgb(74, 30, 45);
+    border-bottom: solid 2px rgb(83, 23, 43);
     padding: 20px;
     font-size: 32px;
     color: rgb(79, 28, 38);
