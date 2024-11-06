@@ -2,7 +2,7 @@ body {
     color: rgb(136, 58, 102);
     background: rgb(194, 116, 151);
     margin: 0px;
-    font-family: "Chakra Petch", sans-serif;
+    font-family: "Gill Sans", sans-serif;
     margin-bottom: 100px;
 }
 
@@ -52,7 +52,7 @@ p {
 
 .categoria-videos img:hover {
     opacity: 1.0;
-    border: 3px solid rgb(243, 94, 248);
+    border: 3px solid rgb(251, 132, 255);
 }
 
 .categoria h2 {
